@@ -1,5 +1,4 @@
 # Informer（二）
-**注意**：本文内容为学习笔记，内容为个人见解，不保证准确性，但欢迎大家讨论何指教。
 
 本篇介绍`cache.SharedIndexInforme`中 Controller及其组件
 informer大致工作流程如下：
