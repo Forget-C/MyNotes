@@ -26,6 +26,16 @@ csdn博客：[https://blog.csdn.net/q1403539144](https://blog.csdn.net/q14035391
 - [从源码解析VolcanoScheduler调度过程](/volcano/flow/index.md)
 - [从源码解析Volcano常见插件](/volcano/plugins/index.md)
 
+## Kruise
+<span style="font-size: 40px;
+            font-family: Arial, sans-serif;
+            text-shadow: 2px 2px 2px #FF0000,
+                         4px 4px 2px #00FF00,
+                         6px 6px 2px #0000FF;">Kruise</span>
+
+### inplace update
+- [从源码解析Kruise原地升级原理](/kruise/inplace/index.md)
+
 ## CNI
 ![](images/network_logo.jpeg)
 - [从源码解析flannel](/cni/flannel/index.md)
